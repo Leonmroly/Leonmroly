@@ -1,17 +1,4 @@
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,nestjs,vue,postgres,sqlite,visualstudio,vscode,git&perline=10" />
-  </a>
-</p>
 
----
-
-### 📈 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
 
 <p align="center">
   <strong>Full Stack Developer </strong>
@@ -45,9 +32,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=tokyonight&hide_border=true" width="43%" alt="Lenguajes" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ts,nestjs,vue,postgres,sqlite,visualstudio,vscode,git&perline=10" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
