@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,cs,dotnet,sqlserver,postgres&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,cs,dotnet,sqlserver,postgres,vbox,visualstudio,vscode&perline=12" />
   </a>
 </p>
 
@@ -33,7 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=dark&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
-
 
 <!--
 **Leonmroly/Leonmroly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
