@@ -1,7 +1,16 @@
-## Hi there 👋
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ts,nestjs,vue,postgres,sqlite,visualstudio,vscode,git&perline=10" />
+  </a>
+</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Leon%20Mamani%20Roly%20E.&fontSize=40&animation=fadeIn&theme=dark" alt="Banner Leon" />
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
