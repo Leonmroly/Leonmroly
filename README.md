@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,cs,dotnet,sqlserver,sqlmanager,figma,visualstudio,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,cs,dotnet,sqlserver,figma,visualstudio,vscode&perline=12" />
   </a>
 </p>
 
