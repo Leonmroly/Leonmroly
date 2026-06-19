@@ -1,38 +1,37 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=1f2937&height=180&section=header&text=Leon%20M.%20Roly&fontSize=45&theme=dark" alt="Banner" />
+</p>
 
 <p align="center">
-  <strong>Full Stack Developer </strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Leonmroly">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### <p align="center">🛠️ Tecnologías y Herramientas</p>
-
-
----
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,nestjs,vue,postgres,sqlite,visualstudio,vscode,git&perline=10" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
+### <p align="center">Tecnologías y Herramientas</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonmroly&theme=tokyonight&hide_border=true" width="91%" alt="Racha de commits" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,cs,dotnet,sqlserver,postgres&perline=9" />
+  </a>
+</p>
+
+---
+
+### <p align="center">Estadísticas de GitHub</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonmroly&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonmroly&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 
